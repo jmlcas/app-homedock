@@ -1,3 +1,5 @@
+Pulsa sobre "Code" descarga y descomprime.
+
 En HomeDockOS ir a Packager del menú inicio.
 
 Importa la app que te interese arrastrándola al Packager Manager.
