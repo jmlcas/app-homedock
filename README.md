@@ -14,5 +14,6 @@ En Access Credentials mira el usuario y haz visible el password.
 
 Si quieres desinstalar simplemente desde la imagen de la aplicación en el dashboard, botón derecho del ratón y Uninstall.
 
+----------------------------------------
 
 ![Alt text](https://github.com/jmlcas/app-homedock/blob/main/Screenshot_1.png)
