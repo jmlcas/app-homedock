@@ -1,4 +1,4 @@
-Cómo instalar App en HomeDockOS:&nbsp; <a href="https://youtu.be/DVVn2ZZM5lQ" target="_blank">Ver vídeo</a>
+Cómo instalar App en HomeDockOS: <a href="https://youtu.be/DVVn2ZZM5lQ" target="_blank">Ver vídeo</a>
 
 -------------------------
 
