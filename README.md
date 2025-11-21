@@ -6,6 +6,8 @@ Arcane: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://youtu.be/W2O3geEmIww" tar
 
 Dashdot: &nbsp;&nbsp; &nbsp;<a href="https://youtu.be/vHxt3kpNEXg" target="_blank">Ver vídeo</a>
 
+Dockmon: &nbsp;&nbsp; &nbsp;<a href="https://youtu.be/J-mXY4-buys" target="_blank">Ver vídeo</a>
+
 Glances: &nbsp;&nbsp;&nbsp; &nbsp;<a href="https://youtu.be/_f0n5N5LPpY" target="_blank">Ver vídeo</a>
 
 Kanboard: &nbsp; <a href="https://youtu.be/MkKWIaFzr9Q" target="_blank">Ver vídeo</a>
