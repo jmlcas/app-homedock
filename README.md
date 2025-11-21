@@ -1,13 +1,13 @@
-Cómo instalar App en HomeDockOS: https://youtu.be/DVVn2ZZM5lQ
+Cómo instalar App en HomeDockOS: <a href="https://youtu.be/DVVn2ZZM5lQ" target="_blank">Ver vídeo</a>
 
 -------------------------
 
-Arcane: https://youtu.be/W2O3geEmIww
+Arcane: <a href="https://youtu.be/W2O3geEmIww" target="_blank">Ver vídeo</a>
 
-Dashdot: https://youtu.be/vHxt3kpNEXg
+Dashdot: <a href="https://youtu.be/vHxt3kpNEXg" target="_blank">Ver vídeo</a>
 
-Glances: https://youtu.be/_f0n5N5LPpY
+Glances: <a href="https://youtu.be/_f0n5N5LPpY" target="_blank">Ver vídeo</a>
 
-WUD: https://youtu.be/85E515DbTo8 
+WUD: <a href="https://youtu.be/85E515DbTo8 " target="_blank">Ver vídeo</a>
 
 <a href="https://youtu.be/85E515DbTo8/" target="_blank">Ver vídeo</a>
