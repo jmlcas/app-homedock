@@ -10,4 +10,4 @@ Glances: https://youtu.be/_f0n5N5LPpY
 
 WUD: https://youtu.be/85E515DbTo8 
 
-
+<a href="[https://edulazaro.com](https://youtu.be/85E515DbTo8)/" target="_blank">Ver vídeo</a>
