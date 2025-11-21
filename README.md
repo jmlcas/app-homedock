@@ -8,6 +8,8 @@ Dashdot: &nbsp; <a href="https://youtu.be/vHxt3kpNEXg" target="_blank">Ver víde
 
 Glances: &nbsp;&nbsp; <a href="https://youtu.be/_f0n5N5LPpY" target="_blank">Ver vídeo</a>
 
+Kanboard: &nbsp;&nbsp; <a href="https://youtu.be/MkKWIaFzr9Q" target="_blank">Ver vídeo</a>
+
 Termix:  &nbsp;&nbsp;&nbsp; <a href="https://youtu.be/Buw-lz3kbKU" target="_blank">Ver vídeo</a>
 
 WUD: &nbsp; &nbsp; &nbsp;&nbsp; <a href="https://youtu.be/85E515DbTo8 " target="_blank">Ver vídeo</a>
